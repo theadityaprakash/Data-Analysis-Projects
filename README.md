@@ -23,7 +23,7 @@ Analyze sales performance, customer satisfaction, and inventory distribution for
 - Highlighted trends in customer satisfaction scores.
 - Provided recommendations for inventory optimization.
 
-[**Learn More**](#)  < [Replace # with the link to the specific subdirectory or report --](https://github.com/theadityaprakash/Data-Analysis-Projects/tree/main/Blinkit%20Analysis)>
+[**Learn More**](#)  < [](https://github.com/theadityaprakash/Data-Analysis-Projects/tree/main/Blinkit%20Analysis)>
 
 ### 2. Pizza Sales Data Analysis
 
@@ -39,7 +39,7 @@ Conduct an in-depth analysis of pizza sales data to understand customer preferen
 - Analyzed sales trends across different time periods.
 - Provided inventory management recommendations based on sales data.
 
-[**Learn More**](#)  <[!-- Replace # with the link to the specific subdirectory or report --](https://github.com/theadityaprakash/Data-Analysis-Projects/tree/main/pizza%20Sales)>
+[**Learn More**](#)  <[](https://github.com/theadityaprakash/Data-Analysis-Projects/tree/main/pizza%20Sales)>
 
 ### 3. Population Growth Analysis
 
