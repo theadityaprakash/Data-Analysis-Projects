@@ -52,7 +52,7 @@ Analyze population growth trends across different countries using historical dat
 - Identified key factors influencing population changes.
 - Created visualizations to forecast future population trends.
 
-[**Learn More**](#)  <!--add link here -->
+[**Learn More**](#)  <[](https://github.com/theadityaprakash/Data-Analysis-Projects/blob/main/Population%20Analysis/worldpopulationanalysis.ipynb)>
 
 ## Conclusion
 
